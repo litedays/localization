@@ -1043,6 +1043,8 @@ LEVEL_REWARD_LORE2:
   - ''
   - '§e▸ Нажмите, чтобы получить награду'
 
+MODULE_LIST_LOBBY: '§fСписок модулей (2): §aLobby§f, §aProxyConnector'
+
 SUFFIX_ITEM_NAME: 'Суффикс %s'
 SUFFIX_ITEM_LORE:
   - '§7Установить суффикс после ника,'
